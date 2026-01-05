@@ -27,7 +27,7 @@ The combination of these datasets ensures diverse representation and robust mode
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/muneerahmad44/EczemaAndScabiesClassifier.git
 cd EczemaAndScabiesClassifier
 ```
 
@@ -95,4 +95,4 @@ See `requirements.txt` for a complete list of dependencies.
 
 ## Contact
 
-*(Add your contact information here)*
+*muneerahmed.dev@gmail.com*
