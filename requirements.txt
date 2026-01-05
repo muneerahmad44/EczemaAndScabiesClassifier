@@ -1,0 +1,6 @@
+fastapi
+PIL
+torch
+torchvision 
+streamlit
+requests
